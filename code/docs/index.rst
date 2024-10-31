@@ -3,11 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Basic ICMP Documentation
+Basic ICMP Documentation 
 ========================
+GroupID: 19 
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Authors:
 
+Defne Ekin,2580553
+
+Ali Eren Çankaya,2521375
+
+Github Repository:
+
+https://github.com/aecankaya/covertovert.git
 
 .. toctree::
    :maxdepth: 2
